@@ -53,6 +53,7 @@ _Deployed with Vercel for global accessibility and blazing-fast performance._
 ---
 
 ## 📁 Project Structure
+```bash
 
 E_commerce/
 ├── public/
@@ -94,7 +95,7 @@ E_commerce/
 ├── tailwind.config.js
 ├── vite.config.js
 
-
+```
 ---
 
 ## 📦 Installation & Setup
@@ -113,4 +114,30 @@ npm install
 
 # Run the development server
 npm run dev
+
+```
+---
+
+## ☁️ Deployment Options
+
+Easily deploy this portfolio to the web using any of the platforms below:
+
+- 🔗 [Vercel](https://vercel.com/)
+- 🔗 [Netlify](https://www.netlify.com/)
+- 🔗 [GitHub Pages](https://pages.github.com/) *(requires setup)*
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License** — you're free to use, modify, and distribute it for both personal and commercial purposes.
+
+---
+
+<br />
+
+<p align="center">
+  Made with ❤️ by <strong>Nagamanikanta Nallaganchu</strong>
+</p>
+
 
